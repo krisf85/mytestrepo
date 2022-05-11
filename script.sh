@@ -18,7 +18,7 @@ read rich
 
 echo "You will be rich in ..."
 
-sleep2
+sleep 2
 
 echo "Loading .."
 
