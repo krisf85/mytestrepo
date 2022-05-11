@@ -18,8 +18,10 @@ read rich
 
 echo "You will be rich in ..."
 
-sleep 3
+sleep 1
 
 echo "Calculating ......."
+
+sleep 2
 
 echo "$RANDOM years!!"
