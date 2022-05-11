@@ -24,6 +24,6 @@ echo "Calculating ......."
 
 sleep 2
 
-$getRich=$((($RANDOM % 15) + $age ))
+getRich=$((($RANDOM % 15) + $age ))
 
 echo "$getRich years!!"
