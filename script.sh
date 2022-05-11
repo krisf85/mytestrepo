@@ -26,4 +26,4 @@ sleep 2
 
 getRich=$((($RANDOM % 15) + $age ))
 
-echo "$getRich years!!"
+echo "$getRich years!! You will be ($getRich + age) years old then")
